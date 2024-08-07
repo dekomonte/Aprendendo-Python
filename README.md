@@ -1,2 +1,3 @@
 # Aprendendo-Python
-Python. 
+Repositório contendo estudos na linguagem Python. 
+Foco em Machine Learning.
